@@ -17,16 +17,16 @@ Basit ve hızlı şekilde haftalık çizelge / program planlayabileceğin web uy
 Bir okul çizelgesi, çalışma programı veya günlük plan hazırlamak artık hızlı ve kolay.
 
 Canlı olarak burada çalışır:  
-👉 https://kyrstr1.github.io/Haftalik-Cizelge/ :contentReference[oaicite:0]{index=0}
+👉 https://kyrstr1.github.io/Haftalik-Cizelge/
 
 ---
 
 ## 🛠️ Özellikler
 
-✔️ **7 günlük çizelge görünümü** (Pazartesi → Pazar) :contentReference[oaicite:1]{index=1}  
-✔️ **Saat ekleme** ile çizelgeni kişiselleştirme :contentReference[oaicite:2]{index=2}  
-✔️ Kullanması kolay, sade arayüz :contentReference[oaicite:3]{index=3}  
-✔️ **Statik web uygulaması** — herhangi sunucu gerektirmez :contentReference[oaicite:4]{index=4}
+✔️ **7 günlük çizelge görünümü** (Pazartesi → Pazar) 
+✔️ **Saat ekleme** ile çizelgeni kişiselleştirme  
+✔️ Kullanması kolay, sade arayüz  
+✔️ **Statik web uygulaması** — herhangi sunucu gerektirmez 
 
 ---
 
